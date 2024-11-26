@@ -1,0 +1,19 @@
+# 自定义代理列表
+DOMAIN-SUFFIX,okx.com
+DOMAIN-SUFFIX,ip.sb
+DOMAIN-SUFFIX,linux.do
+
+# emby
+DOMAIN-SUFFIX,123456.al
+DOMAIN-SUFFIX,emby.bangumi.ca
+# other
+DOMAIN-KEYWORD,lsposed
+DOMAIN-KEYWORD,cloudflare
+
+DOMAIN-SUFFIX,pp.ua
+DOMAIN-SUFFIX,nip.io
+DOMAIN-SUFFIX,r2.dev
+DOMAIN-SUFFIX,sslip.io
+DOMAIN-SUFFIX,fly.dev
+DOMAIN-SUFFIX,cloudfront.net
+DOMAIN-SUFFIX,naixi.net

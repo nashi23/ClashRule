@@ -1,0 +1,15 @@
+# 自定义直连
+DOMAIN-KEYWORD,xianbao
+DOMAIN-KEYWORD,lan
+DOMAIN-KEYWORD,xdglt
+DOMAIN-KEYWORD,xiaodigu
+DOMAIN-SUFFIX,pixivic.com
+
+# 修复中银跨境go积分活动
+DOMAIN-SUFFIX,rong-data.com
+DOMAIN-SUFFIX,huajifen.com
+DOMAIN-SUFFIX,rongdatamall.com
+
+# 修复淘宝验证
+DOMAIN-SUFFIX,avlyun.com
+DOMAIN-SUFFIX,log.mmstat.com
